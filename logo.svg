@@ -1,2 +1,4 @@
-<polygon points="100,10 40,198 190,78" 
-            style="fill:white;stroke:black;stroke-width:1" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+        <polygon points="150, 18 244, 182 56, 182" fill="White" /> <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+         fill="Blue" font-family="sans-serif" font-size="60">ROB</text>
+        </svg>
