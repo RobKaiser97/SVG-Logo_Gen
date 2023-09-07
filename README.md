@@ -13,12 +13,12 @@
   the importance of gitignore.
 
   ## Installation
-  Clone this repository into your local machine, then do the following commands:
+  Clone this repository into your local machine, then run the following from a CLI of your choosing:
 
   ```npm i```
   
   ## Usage
-  To use this project, open up the intregrated terminal by right clicking on "index.js". From there, type in the following command:
+  To use this project, open the CLI and navigate to the path of the "index.js" file. From there, type in the following command:
   
   ```node index.js```
 
